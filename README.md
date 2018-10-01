@@ -8,3 +8,4 @@ devtools::install_github("Caleb-Huo/GatorPKG")
 
 ## example
 f(1,2)
+New to the vignette branch
