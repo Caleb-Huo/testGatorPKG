@@ -8,3 +8,5 @@ devtools::install_github("Caleb-Huo/GatorPKG")
 
 ## example
 f(1,2)
+f(2,3)
+New to the master
