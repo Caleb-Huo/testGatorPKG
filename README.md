@@ -8,5 +8,9 @@ devtools::install_github("Caleb-Huo/GatorPKG")
 
 ## example
 f(1,2)
+<<<<<<< HEAD
 f(2,3)
 New to the master
+=======
+New to the vignette branch
+>>>>>>> vignette
